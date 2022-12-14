@@ -1,0 +1,128 @@
+body {
+  background-color: #6a686833;
+}
+.container {
+  background-color: #6d58ff2e;
+  
+  width: 1000px;
+  margin: 10px auto;
+  padding: 10px;
+}
+.head {
+  text-align: center;
+}
+p {
+}
+
+.about,
+.list,
+span,
+.email,
+.myspan {
+  color: #6c63ff;
+}
+img {
+  border-radius: 50%;
+  display: inline-block;
+}
+/* .right{
+    display: inline;
+} */
+ul {
+  margin-left: 12px;
+}
+.item-list {
+  border-left: solid 7px #6c63ff;
+  margin-bottom: 2px;
+  border-width: 8px;
+}
+.mylist {
+  margin-left: -37px;
+}
+.footer {
+  color: #6c63ff;
+  text-align: center;
+}
+/* .images{
+   display: inline-block; 
+} */
+.star1 {
+  width: 20px;
+}
+.star2 {
+  width: 20px;
+}
+.star3 {
+  width: 20px;
+}
+.image {
+  display: inline-block;
+  width: 30px;
+}
+
+/* .spanimg{
+    width:200px
+} */
+/* .section2{
+    background-color: aqua;
+    padding: 20px;
+    width: 200px;
+    margin: -138px 26% 10% 20%;
+   
+}
+.section1{
+    background-color: chartreuse;
+    width:200px
+} */
+.checked {
+  color: orange;
+}
+.star {
+  display: inline;
+  /* margin-left: 10px; */
+  color: gold;
+  padding: 0;
+  width: 20px;
+}
+.star2 {
+  display: inline;
+  /* margin-left: 10px; */
+  color: gold;
+  padding: 0;
+}
+.icon {
+  display: block;
+  height: 18px;
+  margin: 1em auto;
+  width: 102px;
+}
+.star-main {
+  display: inline;
+}
+.star1-main {
+  display: inline;
+  margin-left: 15px;
+}
+.star2-main {
+  display: inline;
+  margin-left: 31px;
+}
+
+/* .section .right{
+    float: right;
+}
+
+.section .left{
+    float: left;
+} */
+
+img {
+  max-width: 100%;
+}
+.image {
+  flex-basis: 40%;
+}
+.text {
+  font-size: 20px;
+  padding-left: 20px;
+}
